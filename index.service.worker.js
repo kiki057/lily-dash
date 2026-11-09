@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794204209|4350750';
+const CACHE_VERSION = '1794268776|3627066';
 /** @type {string} */
 const CACHE_PREFIX = 'Lily Dash-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
